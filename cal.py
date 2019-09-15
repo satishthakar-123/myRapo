@@ -1,8 +1,8 @@
 def add(x,y):
-    x+y
+    x+y+z7777777777
 pass
 def subtract(x,y):
-    return x-y
+    return x-y+z
 pass
 def multiply(x,y):
 return x*y
